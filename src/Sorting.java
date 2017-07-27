@@ -1,4 +1,4 @@
-// this is a second exampl. look at the other way of sorting an array
+// this is a second example. look at the other way of sorting an array
 // Jaouad Sar
 import java.util.Arrays;
 
